@@ -1,0 +1,4 @@
+name: chewie
+recipe: drupal8
+config:
+  webroot: web
