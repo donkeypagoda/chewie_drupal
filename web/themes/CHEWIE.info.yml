@@ -1,3 +1,12 @@
 name: chewie
 type: theme
 description: "A theme for Chewbacca"
+core: 8.x
+libraries:
+  - chewie/global-styling
+base theme: classy
+regions:
+  header: Header
+  content: content
+  sidebar_first: "Sidebar first"
+  footer: Footer
