@@ -4,7 +4,7 @@ description: "A theme for Chewbacca"
 core: 8.x
 libraries:
   - chewie/global-styling
-base theme: false
+base theme: classy
 regions:
   header: Header
   content: content
