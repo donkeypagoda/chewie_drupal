@@ -4,6 +4,7 @@ description: "A theme for Chewbacca"
 core: 8.x
 libraries:
   - chewie/global-styling
+  -chewie/global-scripting
 base theme: classy
 screenshot: custom/chewie/images/268446_big.jpg
 regions:
@@ -12,4 +13,4 @@ regions:
   sidebar_first: "Sidebar first"
   footer: Footer
 stylesheets-remove:
-  - /sites/default/files/css/css 
+  - /sites/default/files/css/css
