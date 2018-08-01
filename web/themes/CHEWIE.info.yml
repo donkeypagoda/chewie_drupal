@@ -4,13 +4,5 @@ description: "A theme for Chewbacca"
 core: 8.x
 libraries:
   - chewie/global-styling
-   -chewie/global-scripting
-base theme: null
+  - chewie/global-scripting
 screenshot: custom/chewie/images/268446_big.jpg
-regions:
-  header: Header
-  content: content
-  sidebar_first: "Sidebar first"
-  footer: Footer
-stylesheets-remove:
-  - /sites/default/files/css/css

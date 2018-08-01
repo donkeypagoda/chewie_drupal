@@ -1,9 +1,8 @@
 global-styling:
-  version: VERSION
+  version: 1.x
   css:
-    base:
+    theme:
       css/layout.css: {}
 global-scripting:
-  version: VERSION
   js:
     js/script.js: {}
