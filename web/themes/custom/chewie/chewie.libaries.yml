@@ -3,3 +3,7 @@ global-styling:
   css:
     base:
       css/layout.css: {}
+global-scripting:
+  version: VERSION
+  js:
+    js/script.js: {}
