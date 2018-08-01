@@ -5,7 +5,7 @@ core: 8.x
 libraries:
   - chewie/global-styling
    -chewie/global-scripting
-base theme: classy
+base theme: null
 screenshot: custom/chewie/images/268446_big.jpg
 regions:
   header: Header
