@@ -3,6 +3,7 @@ type: theme
 description: "A theme for Chewbacca"
 core: 8.x
 screenshot: images/268446_big.jpg
+base theme: classy 
 
 libraries:
   - chewie/global-styling
