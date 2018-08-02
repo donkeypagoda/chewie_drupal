@@ -2,7 +2,8 @@ name: chewie
 type: theme
 description: "A theme for Chewbacca"
 core: 8.x
+screenshot: custom/chewie/images/268446_big.jpg
+
 libraries:
   - chewie/global-styling
   - chewie/global-scripting
-screenshot: custom/chewie/images/268446_big.jpg
